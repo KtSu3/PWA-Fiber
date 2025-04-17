@@ -1,0 +1,7 @@
+{
+    "workbench.editor.decorations.colors": true,
+    "zenMode.restore": true,
+    "debug.terminal.clearBeforeReusing": false,
+    "explorer.enableUndo": true,
+    "files.restoreUndoStack": true
+}
